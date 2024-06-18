@@ -1,0 +1,5 @@
+- 👋 Olá, sou @Kailaine
+- 👀 Estou interessada em HTML/CSS/JS
+- 🌱 Atualmente estou aprendendo com os cursos da Alura
+- 📫 Como entrar em contato comigo: kailainevitoria824@gmail.com
+- ⚡ Curiosidade: Tecnologia
